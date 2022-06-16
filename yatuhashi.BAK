@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+
+<head>
+<meta charset="UTF-8">
+
+
+	<title>八ツ橋</title>
+	<link rel="stylesheet" href="hp.css">
+</head>
+
+<body>
+<div id="container">	<!--全体を囲むdiv-->
+
+<!--ヘッダー-->
+<header>
+	<div id="header-title">京都のおすすめグルメ</div>
+</header>
+
+<!--ナビゲーションメニュー-->
+<nav>
+	<ul>
+		<li><a href="index.html">トップページ</a></li>
+		<li><a href="aburi.html">あぶり餅</a></li>
+		<li><a href="dashimaki.html">だし巻きサンド</a></li>
+		<li><a href="hamo.html">鱧</a></li>
+		<li><a href="shippoku.html">しっぽくうどん</a></li>
+		<li><a href="yatuhashi.html">八ツ橋</a></li>
+		<li><a href="shopping.html">ショッピング</a></li>
+		<li><a href="otoiawase.html">お問い合わせ</a></li>
+	</ul>
+</nav>
+
+<!--左横メニュー-->
+<div id="menu">
+<ul>
+	<li><a href="index.html"><image src="image/top.png" width="285" alt="トップページ" class="Item2"></a></li>
+	<li><a href="aburi.html"><image src="image/aburi_b.png" width="278" alt="あぶり餅" class="Item"></a></li>
+	<li><a href="dashimaki.html"><image src="image/dashimaki_b.png" alt="だし巻きサンド" class="Item"></a></li>
+	<li><a href="hamo.html"><image src="image/hamo_b.png" alt="鱧" class="Item"></a></li>
+	<li><a href="shippoku.html"><image src="image/shippoku_b.png" alt="しっぽくうどん" class="Item"></a></li>
+	<li><a href="yatuhashi.html"><image src="image/yatuhashi_b.png" alt="八ツ橋" class="Item"></a></li>
+	<li><a href="shopping.html"><image src="image/shopping_b.png" alt="ショッピング" class="Item"></a></li>
+	<li><a href="otoiawase.html"><image src="image/otoiawase_b.png" alt="お問い合わせ" class="Item"></a></li>
+</ul>
+</div>
+
+<!-- =================メインコンテンツ===================================== -->
+<section>
+	<h1>八ツ橋</h1>
+	<p><image src="image/yatuhashi_nashi.jpg" width="259" height="194" alt="八ツ橋"></p>
+	<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+	<p><image src="image/yuko.jpg" width="259" height="194" alt="夕子"></p>
+	
+	<p>今回ご紹介したグルメはお取り寄せ可能なものがありますので、お取り寄せのご注文は<br>
+	<a href=".html">ショッピングページ</a>をご覧ください！</p>
+</section>
+
+
+<footer>	<!--フッター-->
+<p>&copy;全ての内容の無断転載・転用はお断りします　「京都のおすすめグルメ　森のページ」</p>
+</footer>
+
+</div>	<!--全体を囲むdiv終わり-->
+
+<!--JavaScript-->
+	<script src="jquery-3.6.0.min.js"></script>
+	<script src="hp.js"></script>
+
+
+</body>
+
+</html>
